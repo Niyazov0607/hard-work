@@ -1,0 +1,15 @@
+.hero {
+    background: linear-gradient(
+            180deg,
+            rgba(0, 0, 0, 0.2) -13.19%,
+            rgba(0, 0, 0, 0.85) 94.01%
+        ),
+        url(../assets/images/hero\ img\ \(3\).png);
+    background-size: cover;
+    background-position-x: 77%;
+}
+
+.hero {
+    max-width: 1600px;
+    margin: 0 auto;
+}
