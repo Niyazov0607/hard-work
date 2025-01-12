@@ -4,7 +4,7 @@ tailwind.config = {
             center: true,
             width: {
                 DEFAULT: "100%",
-                tablet:  "600px",
+                tablet: "600px",
                 ltablet: "960px",
                 desktop: "1200px",
             },
